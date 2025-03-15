@@ -1,15 +1,4 @@
 # anatra_final
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kiro-v1.0.0-blueviolet?style=for-the-badge" alt="Version Badge" />
-  <img src="https://img.shields.io/github/stars/yourusername/kiro?style=for-the-badge&color=orange" alt="Stars Badge" />
-  <img src="https://img.shields.io/github/issues/yourusername/kiro?style=for-the-badge&color=red" alt="Issues Badge" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Kiro+Logo" alt="Kiro Logo" width="150" />
-</p>
-
 <h1 align="center">Kiro</h1>
 <p align="center">
   <strong>A task management app to reduce screen time with friends, groups, and a token-based shop!</strong>
@@ -19,9 +8,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="#tech-stack">Tech Stack</a> •>
 </p>
 
 ---
