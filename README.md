@@ -13,7 +13,7 @@
 
 ---
 
-## About Kiro
+## About Kairo
 
 Kairo is a React Native app designed to help you manage tasks and reduce screen time through a gamified, social experience. Schedule tasks, track your progress, compete with friends on leaderboards, create and manage groups, and spend earned tokens in an in-app shop. Built with Expo, Kairo combines productivity tools with social motivation to make staying off your screen both fun and rewarding.
 
