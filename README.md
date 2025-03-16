@@ -1,5 +1,5 @@
 # anatra_final
-<h1 align="center">Kiro</h1>
+<h1 align="center">Kairo</h1>
 <p align="center">
   <strong>A task management app to reduce screen time with friends, groups, and a token-based shop!</strong>
 </p>
@@ -15,15 +15,15 @@
 
 ## About Kiro
 
-Kiro is a React Native app designed to help you manage tasks and reduce screen time through a gamified, social experience. Schedule tasks, track your progress, compete with friends on leaderboards, create and manage groups, and spend earned tokens in an in-app shop. Built with Expo, Kiro combines productivity tools with social motivation to make staying off your screen both fun and rewarding.
+Kairo is a React Native app designed to help you manage tasks and reduce screen time through a gamified, social experience. Schedule tasks, track your progress, compete with friends on leaderboards, create and manage groups, and spend earned tokens in an in-app shop. Built with Expo, Kairo combines productivity tools with social motivation to make staying off your screen both fun and rewarding.
 
-### Why Kiro?
+### Why Kairo?
 - **Task Management:** Plan your day with a sleek calendar and task list.
 - **Social Competition:** Compare screen time stats with friends and climb the leaderboard.
 - **Group Support:** Create groups to stay productive together.
 - **Token Rewards:** Earn tokens by completing tasks and spend them on fun items.
 
-> **Fun Fact:** Kiro’s Extreme Daily Challenge offers 500 bonus tokens for finishing all your tasks in a day—up for it?
+> **Fun Fact:** Kairo’s Extreme Daily Challenge offers 500 bonus tokens for finishing all your tasks in a day—up for it?
 
 ---
 
@@ -43,7 +43,7 @@ Kiro is a React Native app designed to help you manage tasks and reduce screen t
 
 ## Installation
 
-Set up Kiro locally with these steps. You’ll need a development environment ready to go!
+Set up Kairo locally with these steps. You’ll need a development environment ready to go!
 
 ### Prerequisites
 - **Node.js**: v16.13.0 or higher
@@ -55,8 +55,8 @@ Set up Kiro locally with these steps. You’ll need a development environment re
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/shahdtr24-meet/anatra_final.git
-   cd kiro
-   Kiro leverages these libraries and tools for a smooth, cross-platform experience:
+   cd kairo
+   Kairo leverages these libraries and tools for a smooth, cross-platform experience:
 
 Library/Framework	Version	Purpose
 React Native	     0.71.0	Core framework for UI and logic
