@@ -3,7 +3,7 @@ import { View, StyleSheet, TouchableOpacity } from "react-native";
 import { useRouter, usePathname } from "expo-router";
 import Svg, { Path, Defs, LinearGradient, Stop } from "react-native-svg";
 
-// Define Icons
+
 const HomeIcon = () => (
   <Svg width="24" height="24" viewBox="0 0 24 24" fill="none">
     <Path

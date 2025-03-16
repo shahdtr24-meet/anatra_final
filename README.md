@@ -54,7 +54,7 @@ Set up Kiro locally with these steps. You’ll need a development environment re
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/kiro.git
+   git clone https://github.com/shahdtr24-meet/anatra_final.git
    cd kiro
    Kiro leverages these libraries and tools for a smooth, cross-platform experience:
 

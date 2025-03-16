@@ -454,7 +454,7 @@ const TaskCalendar = () => {
         )}
       </View>
 
-      {/* Extreme Challenge Button with Absolute Positioning */}
+      
       <TouchableOpacity
         style={styles.extremeChallengeButton}
         onPress={handleExtremeChallenge}
